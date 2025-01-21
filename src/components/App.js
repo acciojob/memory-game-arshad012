@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
+    <h1>Memory Game</h1>
     </div>
   )
 }
